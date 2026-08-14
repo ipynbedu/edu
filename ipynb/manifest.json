@@ -17,11 +17,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 66.8
+   "has_mermaid": true,
+   "size_kb": 69.7
   },
   {
    "file": "AICE_Associate_변주0_기초_02_회귀_visitor_density.ipynb",
@@ -30,11 +30,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 35,
-   "n_cells": 189,
+   "n_cells": 191,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 62.7
+   "has_mermaid": true,
+   "size_kb": 65.6
   },
   {
    "file": "AICE_Associate_변주0_기초_03_분류다중_Failure_Status.ipynb",
@@ -43,11 +43,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 67.7
+   "has_mermaid": true,
+   "size_kb": 70.6
   },
   {
    "file": "AICE_Associate_변주0_기초_04_회귀_hiring_success_score.ipynb",
@@ -56,11 +56,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 35,
-   "n_cells": 189,
+   "n_cells": 191,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 62.6
+   "has_mermaid": true,
+   "size_kb": 65.5
   },
   {
    "file": "AICE_Associate_변주0_기초_05_분류_Default_Status.ipynb",
@@ -69,11 +69,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 66.7
+   "has_mermaid": true,
+   "size_kb": 69.6
   },
   {
    "file": "AICE_Associate_변주0_기초_06_회귀_completion_rate.ipynb",
@@ -82,11 +82,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 35,
-   "n_cells": 189,
+   "n_cells": 191,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 62.9
+   "has_mermaid": true,
+   "size_kb": 65.8
   },
   {
    "file": "AICE_Associate_변주0_기초_07_분류_congestion_level.ipynb",
@@ -95,11 +95,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 66.8
+   "has_mermaid": true,
+   "size_kb": 69.8
   },
   {
    "file": "AICE_Associate_변주0_기초_08_회귀_Days_Until_Churn.ipynb",
@@ -108,11 +108,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 35,
-   "n_cells": 189,
+   "n_cells": 191,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 62.4
+   "has_mermaid": true,
+   "size_kb": 65.2
   },
   {
    "file": "AICE_Associate_변주0_기초_09_분류_Churned.ipynb",
@@ -121,11 +121,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 36,
-   "n_cells": 194,
+   "n_cells": 196,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 64.7
+   "has_mermaid": true,
+   "size_kb": 67.6
   },
   {
    "file": "AICE_Associate_변주0_기초_10_회귀_Claim_Amount.ipynb",
@@ -134,11 +134,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 36,
-   "n_cells": 194,
+   "n_cells": 196,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 65.0
+   "has_mermaid": true,
+   "size_kb": 67.9
   },
   {
    "file": "AICE_Associate_변주0_기초_11_분류_Churn.ipynb",
@@ -147,11 +147,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 66.7
+   "has_mermaid": true,
+   "size_kb": 69.7
   },
   {
    "file": "AICE_Associate_변주0_기초_12_회귀_Default_Probability.ipynb",
@@ -160,11 +160,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 36,
-   "n_cells": 194,
+   "n_cells": 196,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 64.2
+   "has_mermaid": true,
+   "size_kb": 67.1
   },
   {
    "file": "AICE_Associate_변주0_기초_13_분류다중_Failure_Status.ipynb",
@@ -173,11 +173,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 36,
-   "n_cells": 194,
+   "n_cells": 196,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 65.4
+   "has_mermaid": true,
+   "size_kb": 68.3
   },
   {
    "file": "AICE_Associate_변주0_기초_14_회귀_Claim_Amount.ipynb",
@@ -186,11 +186,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 36,
-   "n_cells": 194,
+   "n_cells": 196,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 64.2
+   "has_mermaid": true,
+   "size_kb": 67.1
   },
   {
    "file": "AICE_Associate_변주0_기초_15_분류_Volatility_Class.ipynb",
@@ -199,11 +199,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 37,
-   "n_cells": 199,
+   "n_cells": 201,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 66.7
+   "has_mermaid": true,
+   "size_kb": 69.7
   },
   {
    "file": "AICE_Associate_변주0_기초_16_회귀_Churn_Score.ipynb",
@@ -212,11 +212,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 35,
-   "n_cells": 189,
+   "n_cells": 191,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 62.9
+   "has_mermaid": true,
+   "size_kb": 65.8
   },
   {
    "file": "AICE_Associate_변주_01_분류_Price_Trend.ipynb",
@@ -225,11 +225,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.0
+   "has_mermaid": true,
+   "size_kb": 25.7
   },
   {
    "file": "AICE_Associate_변주_02_회귀_claim_amount.ipynb",
@@ -238,11 +238,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.3
+   "has_mermaid": true,
+   "size_kb": 26.0
   },
   {
    "file": "AICE_Associate_변주_03_분류_Churn.ipynb",
@@ -251,11 +251,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.4
+   "has_mermaid": true,
+   "size_kb": 26.1
   },
   {
    "file": "AICE_Associate_변주_04_회귀_Predicted_CLV.ipynb",
@@ -264,11 +264,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.4
+   "has_mermaid": true,
+   "size_kb": 26.1
   },
   {
    "file": "AICE_Associate_변주_05_분류_Churn.ipynb",
@@ -277,11 +277,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.2
+   "has_mermaid": true,
+   "size_kb": 26.0
   },
   {
    "file": "AICE_Associate_변주_06_회귀_SalePrice.ipynb",
@@ -290,11 +290,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 22.8
+   "has_mermaid": true,
+   "size_kb": 25.5
   },
   {
    "file": "AICE_Associate_변주_07_분류_Property_Class.ipynb",
@@ -303,11 +303,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.2
+   "has_mermaid": true,
+   "size_kb": 25.9
   },
   {
    "file": "AICE_Associate_변주_08_회귀_Loan_Loss_Rate.ipynb",
@@ -316,11 +316,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 13,
-   "n_cells": 74,
+   "n_cells": 76,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 23.3
+   "has_mermaid": true,
+   "size_kb": 26.1
   },
   {
    "file": "AICE_Associate_변주v2_01_분류_Is_Delayed.ipynb",
@@ -329,11 +329,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.3
+   "has_mermaid": true,
+   "size_kb": 39.1
   },
   {
    "file": "AICE_Associate_변주v2_02_회귀_Deviation_Score.ipynb",
@@ -342,11 +342,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 38.1
+   "has_mermaid": true,
+   "size_kb": 41.0
   },
   {
    "file": "AICE_Associate_변주v2_03_분류_is_fraud.ipynb",
@@ -355,11 +355,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.7
+   "has_mermaid": true,
+   "size_kb": 40.6
   },
   {
    "file": "AICE_Associate_변주v2_04_회귀_SalePrice.ipynb",
@@ -368,11 +368,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.4
+   "has_mermaid": true,
+   "size_kb": 40.2
   },
   {
    "file": "AICE_Associate_변주v2_05_분류_Delivery_Delay_Status.ipynb",
@@ -381,11 +381,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.4
+   "has_mermaid": true,
+   "size_kb": 40.3
   },
   {
    "file": "AICE_Associate_변주v2_06_회귀_Readmission_Days.ipynb",
@@ -394,11 +394,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.9
+   "has_mermaid": true,
+   "size_kb": 40.8
   },
   {
    "file": "AICE_Associate_변주v2_07_분류_customer_churn.ipynb",
@@ -407,11 +407,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 39.0
+   "has_mermaid": true,
+   "size_kb": 41.9
   },
   {
    "file": "AICE_Associate_변주v2_08_회귀_delivery_delay_hours.ipynb",
@@ -420,11 +420,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.0
+   "has_mermaid": true,
+   "size_kb": 38.8
   },
   {
    "file": "AICE_Associate_변주v2_09_분류_Churned.ipynb",
@@ -433,11 +433,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.8
+   "has_mermaid": true,
+   "size_kb": 40.6
   },
   {
    "file": "AICE_Associate_변주v2_10_회귀_Churn_Probability.ipynb",
@@ -446,11 +446,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 35.9
+   "has_mermaid": true,
+   "size_kb": 38.7
   },
   {
    "file": "AICE_Associate_변주v2_11_분류다중_completion_status.ipynb",
@@ -459,11 +459,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 39.0
+   "has_mermaid": true,
+   "size_kb": 41.9
   },
   {
    "file": "AICE_Associate_변주v2_12_회귀_SalePrice.ipynb",
@@ -472,11 +472,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.2
+   "has_mermaid": true,
+   "size_kb": 39.0
   },
   {
    "file": "AICE_Associate_변주v2_13_분류다중_delivery_status.ipynb",
@@ -485,11 +485,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 38.6
+   "has_mermaid": true,
+   "size_kb": 41.5
   },
   {
    "file": "AICE_Associate_변주v2_14_회귀_hiring_success_score.ipynb",
@@ -498,11 +498,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.5
+   "has_mermaid": true,
+   "size_kb": 40.4
   },
   {
    "file": "AICE_Associate_변주v2_15_분류다중_Sale_Risk_Class.ipynb",
@@ -511,11 +511,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 39.2
+   "has_mermaid": true,
+   "size_kb": 42.1
   },
   {
    "file": "AICE_Associate_변주v2_16_회귀_Yield_Score.ipynb",
@@ -524,11 +524,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.3
+   "has_mermaid": true,
+   "size_kb": 40.1
   },
   {
    "file": "AICE_Associate_변주v2_17_분류_Churned.ipynb",
@@ -537,11 +537,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.8
+   "has_mermaid": true,
+   "size_kb": 39.6
   },
   {
    "file": "AICE_Associate_변주v2_18_회귀_Predicted_Performance_Score.ipynb",
@@ -550,11 +550,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.3
+   "has_mermaid": true,
+   "size_kb": 40.1
   },
   {
    "file": "AICE_Associate_변주v2_19_분류_Churned.ipynb",
@@ -563,11 +563,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.3
+   "has_mermaid": true,
+   "size_kb": 39.1
   },
   {
    "file": "AICE_Associate_변주v2_20_회귀_default_probability.ipynb",
@@ -576,11 +576,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 35.8
+   "has_mermaid": true,
+   "size_kb": 38.7
   },
   {
    "file": "AICE_Associate_변주v2_21_분류_is_hired.ipynb",
@@ -589,11 +589,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.6
+   "has_mermaid": true,
+   "size_kb": 40.4
   },
   {
    "file": "AICE_Associate_변주v2_22_회귀_Sale_Price.ipynb",
@@ -602,11 +602,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.8
+   "has_mermaid": true,
+   "size_kb": 39.6
   },
   {
    "file": "AICE_Associate_변주v2_23_분류_completion_status.ipynb",
@@ -615,11 +615,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 119,
+   "n_cells": 121,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 36.5
+   "has_mermaid": true,
+   "size_kb": 39.3
   },
   {
    "file": "AICE_Associate_변주v2_24_회귀_hiring_success_rate.ipynb",
@@ -628,11 +628,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 124,
+   "n_cells": 126,
    "has_stopwatch": false,
    "has_grading": false,
-   "has_mermaid": false,
-   "size_kb": 37.3
+   "has_mermaid": true,
+   "size_kb": 40.2
   },
   {
    "file": "AICE_Associate_변주v3_01_분류_is_fraud.ipynb",
@@ -641,11 +641,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.0
+   "has_mermaid": true,
+   "size_kb": 46.8
   },
   {
    "file": "AICE_Associate_변주v3_02_회귀_Churn_Probability.ipynb",
@@ -654,11 +654,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.6
+   "has_mermaid": true,
+   "size_kb": 46.4
   },
   {
    "file": "AICE_Associate_변주v3_03_분류_Is_Defect.ipynb",
@@ -667,11 +667,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.5
+   "has_mermaid": true,
+   "size_kb": 48.3
   },
   {
    "file": "AICE_Associate_변주v3_04_회귀_Claim_Loss_Amount.ipynb",
@@ -680,11 +680,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.3
+   "has_mermaid": true,
+   "size_kb": 46.1
   },
   {
    "file": "AICE_Associate_변주v3_05_분류_Growth_Anomaly.ipynb",
@@ -693,11 +693,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.7
+   "has_mermaid": true,
+   "size_kb": 46.5
   },
   {
    "file": "AICE_Associate_변주v3_06_회귀_CustomerSatisfactionScore.ipynb",
@@ -706,11 +706,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.5
+   "has_mermaid": true,
+   "size_kb": 47.3
   },
   {
    "file": "AICE_Associate_변주v3_07_분류_Churn.ipynb",
@@ -719,11 +719,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.5
+   "has_mermaid": true,
+   "size_kb": 46.4
   },
   {
    "file": "AICE_Associate_변주v3_08_회귀_OfferAcceptanceRate.ipynb",
@@ -732,11 +732,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.2
+   "has_mermaid": true,
+   "size_kb": 46.0
   },
   {
    "file": "AICE_Associate_변주v3_09_분류_Failure_Prediction.ipynb",
@@ -745,11 +745,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.4
+   "has_mermaid": true,
+   "size_kb": 48.3
   },
   {
    "file": "AICE_Associate_변주v3_10_회귀_delivery_delay_hours.ipynb",
@@ -758,11 +758,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.3
+   "has_mermaid": true,
+   "size_kb": 47.2
   },
   {
    "file": "AICE_Associate_변주v3_11_분류_payment_status.ipynb",
@@ -771,11 +771,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.5
+   "has_mermaid": true,
+   "size_kb": 48.3
   },
   {
    "file": "AICE_Associate_변주v3_12_회귀_ClaimAmount.ipynb",
@@ -784,11 +784,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.6
+   "has_mermaid": true,
+   "size_kb": 47.5
   },
   {
    "file": "AICE_Associate_변주v3_13_분류_Loan_Status.ipynb",
@@ -797,11 +797,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.9
+   "has_mermaid": true,
+   "size_kb": 47.8
   },
   {
    "file": "AICE_Associate_변주v3_14_회귀_RUL.ipynb",
@@ -810,11 +810,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.6
+   "has_mermaid": true,
+   "size_kb": 47.4
   },
   {
    "file": "AICE_Associate_변주v3_15_분류_is_hired.ipynb",
@@ -823,11 +823,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.2
+   "has_mermaid": true,
+   "size_kb": 46.0
   },
   {
    "file": "AICE_Associate_변주v3_16_회귀_Defect_Rate.ipynb",
@@ -836,11 +836,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 42.7
+   "has_mermaid": true,
+   "size_kb": 45.5
   },
   {
    "file": "AICE_Associate_변주v3_17_분류다중_payment_status.ipynb",
@@ -849,11 +849,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.9
+   "has_mermaid": true,
+   "size_kb": 48.8
   },
   {
    "file": "AICE_Associate_변주v3_18_회귀_Predicted_Loss_Amount.ipynb",
@@ -862,11 +862,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 22,
-   "n_cells": 123,
+   "n_cells": 125,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 43.6
+   "has_mermaid": true,
+   "size_kb": 46.4
   },
   {
    "file": "AICE_Associate_변주v3_19_분류_Loan_Status.ipynb",
@@ -875,11 +875,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.7
+   "has_mermaid": true,
+   "size_kb": 47.6
   },
   {
    "file": "AICE_Associate_변주v3_20_회귀_auction_price.ipynb",
@@ -888,11 +888,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.4
+   "has_mermaid": true,
+   "size_kb": 47.3
   },
   {
    "file": "AICE_Associate_변주v4_01_분류다중_customer_churn.ipynb",
@@ -901,11 +901,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 25,
-   "n_cells": 138,
+   "n_cells": 140,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 49.4
+   "has_mermaid": true,
+   "size_kb": 52.3
   },
   {
    "file": "AICE_Associate_변주v4_02_회귀_damage_cost.ipynb",
@@ -914,11 +914,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.6
+   "has_mermaid": true,
+   "size_kb": 48.5
   },
   {
    "file": "AICE_Associate_변주v4_03_분류_Failure_Status.ipynb",
@@ -927,11 +927,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 47.1
+   "has_mermaid": true,
+   "size_kb": 49.9
   },
   {
    "file": "AICE_Associate_변주v4_04_회귀_yield_kg.ipynb",
@@ -940,11 +940,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.6
+   "has_mermaid": true,
+   "size_kb": 48.5
   },
   {
    "file": "AICE_Associate_변주v4_05_분류다중_congestion_level.ipynb",
@@ -953,11 +953,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 47.7
+   "has_mermaid": true,
+   "size_kb": 50.5
   },
   {
    "file": "AICE_Associate_변주v4_06_회귀_RUL.ipynb",
@@ -966,11 +966,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.9
+   "has_mermaid": true,
+   "size_kb": 48.7
   },
   {
    "file": "AICE_Associate_변주v4_07_분류다중_is_successful.ipynb",
@@ -979,11 +979,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 25,
-   "n_cells": 138,
+   "n_cells": 140,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 49.4
+   "has_mermaid": true,
+   "size_kb": 52.3
   },
   {
    "file": "AICE_Associate_변주v4_08_회귀_Fraud_Risk_Score.ipynb",
@@ -992,11 +992,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 44.9
+   "has_mermaid": true,
+   "size_kb": 47.8
   },
   {
    "file": "AICE_Associate_변주v4_09_분류다중_is_defective.ipynb",
@@ -1005,11 +1005,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 47.7
+   "has_mermaid": true,
+   "size_kb": 50.5
   },
   {
    "file": "AICE_Associate_변주v4_10_회귀_Estimated_Damage_Cost.ipynb",
@@ -1018,11 +1018,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 47.1
+   "has_mermaid": true,
+   "size_kb": 50.0
   },
   {
    "file": "AICE_Associate_변주v4_11_분류_NoShow_Prediction.ipynb",
@@ -1031,11 +1031,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 25,
-   "n_cells": 138,
+   "n_cells": 140,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 48.5
+   "has_mermaid": true,
+   "size_kb": 51.4
   },
   {
    "file": "AICE_Associate_변주v4_12_회귀_loan_repayment_amount.ipynb",
@@ -1044,11 +1044,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 23,
-   "n_cells": 128,
+   "n_cells": 130,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 45.2
+   "has_mermaid": true,
+   "size_kb": 48.0
   },
   {
    "file": "AICE_Associate_변주v4_13_분류다중_Risk_Class.ipynb",
@@ -1057,11 +1057,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 25,
-   "n_cells": 138,
+   "n_cells": 140,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 49.7
+   "has_mermaid": true,
+   "size_kb": 52.5
   },
   {
    "file": "AICE_Associate_변주v4_14_회귀_predicted_yield.ipynb",
@@ -1070,11 +1070,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 46.2
+   "has_mermaid": true,
+   "size_kb": 49.1
   },
   {
    "file": "AICE_Associate_변주v4_15_분류다중_Fault_Type.ipynb",
@@ -1083,11 +1083,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 47.8
+   "has_mermaid": true,
+   "size_kb": 50.7
   },
   {
    "file": "AICE_Associate_변주v4_16_회귀_Loan_Default_Probability.ipynb",
@@ -1096,11 +1096,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 24,
-   "n_cells": 133,
+   "n_cells": 135,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 46.9
+   "has_mermaid": true,
+   "size_kb": 49.8
   },
   {
    "file": "AICE_Associate_변주v5_01_분류다중_is_fraud.ipynb",
@@ -1109,11 +1109,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 57.0
+   "has_mermaid": true,
+   "size_kb": 59.9
   },
   {
    "file": "AICE_Associate_변주v5_02_회귀_Claim_Loss_Amount.ipynb",
@@ -1122,11 +1122,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 27,
-   "n_cells": 148,
+   "n_cells": 150,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 51.5
+   "has_mermaid": true,
+   "size_kb": 54.4
   },
   {
    "file": "AICE_Associate_변주v5_03_분류_Fault_Status.ipynb",
@@ -1135,11 +1135,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 55.7
+   "has_mermaid": true,
+   "size_kb": 58.6
   },
   {
    "file": "AICE_Associate_변주v5_04_회귀_Predicted_Biomass.ipynb",
@@ -1148,11 +1148,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.1
+   "has_mermaid": true,
+   "size_kb": 56.0
   },
   {
    "file": "AICE_Associate_변주v5_05_분류다중_Auction_Price_Tier.ipynb",
@@ -1161,11 +1161,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 56.7
+   "has_mermaid": true,
+   "size_kb": 59.6
   },
   {
    "file": "AICE_Associate_변주v5_06_회귀_Predicted_Monthly_Spend.ipynb",
@@ -1174,11 +1174,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.4
+   "has_mermaid": true,
+   "size_kb": 56.3
   },
   {
    "file": "AICE_Associate_변주v5_07_분류_payment_status.ipynb",
@@ -1187,11 +1187,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 55.9
+   "has_mermaid": true,
+   "size_kb": 58.8
   },
   {
    "file": "AICE_Associate_변주v5_08_회귀_default_probability.ipynb",
@@ -1200,11 +1200,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.6
+   "has_mermaid": true,
+   "size_kb": 56.5
   },
   {
    "file": "AICE_Associate_변주v5_09_분류_is_fraud.ipynb",
@@ -1213,11 +1213,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.4
+   "has_mermaid": true,
+   "size_kb": 56.2
   },
   {
    "file": "AICE_Associate_변주v5_10_회귀_CustomerSatisfactionScore.ipynb",
@@ -1226,11 +1226,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.4
+   "has_mermaid": true,
+   "size_kb": 56.3
   },
   {
    "file": "AICE_Associate_변주v5_11_분류_damage_risk.ipynb",
@@ -1239,11 +1239,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 55.8
+   "has_mermaid": true,
+   "size_kb": 58.7
   },
   {
    "file": "AICE_Associate_변주v5_12_회귀_Churn_Probability.ipynb",
@@ -1252,11 +1252,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 54.0
+   "has_mermaid": true,
+   "size_kb": 56.9
   },
   {
    "file": "AICE_Associate_변주v5_13_분류_Churned.ipynb",
@@ -1265,11 +1265,11 @@
    "track": "분류",
    "multiclass": false,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 55.9
+   "has_mermaid": true,
+   "size_kb": 58.7
   },
   {
    "file": "AICE_Associate_변주v5_14_회귀_Churn_Probability.ipynb",
@@ -1278,11 +1278,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 27,
-   "n_cells": 148,
+   "n_cells": 150,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 51.8
+   "has_mermaid": true,
+   "size_kb": 54.7
   },
   {
    "file": "AICE_Associate_변주v5_15_분류다중_damage_risk.ipynb",
@@ -1291,11 +1291,11 @@
    "track": "분류",
    "multiclass": true,
    "n_questions": 29,
-   "n_cells": 158,
+   "n_cells": 160,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 56.8
+   "has_mermaid": true,
+   "size_kb": 59.6
   },
   {
    "file": "AICE_Associate_변주v5_16_회귀_NoShowCount.ipynb",
@@ -1304,11 +1304,11 @@
    "track": "회귀",
    "multiclass": false,
    "n_questions": 28,
-   "n_cells": 153,
+   "n_cells": 155,
    "has_stopwatch": true,
    "has_grading": true,
-   "has_mermaid": false,
-   "size_kb": 53.7
+   "has_mermaid": true,
+   "size_kb": 56.5
   },
   {
    "file": "AICE_Associate_변주v6_01_분류_Damage_Prediction.ipynb",
@@ -1321,7 +1321,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 57.6
+   "size_kb": 58.8
   },
   {
    "file": "AICE_Associate_변주v6_02_회귀_payment_failure_amount.ipynb",
@@ -1334,7 +1334,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 55.7
+   "size_kb": 57.0
   },
   {
    "file": "AICE_Associate_변주v6_03_분류_Readmission_Risk.ipynb",
@@ -1347,7 +1347,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 55.6
+   "size_kb": 56.8
   },
   {
    "file": "AICE_Associate_변주v6_04_회귀_ClaimAmount.ipynb",
@@ -1360,7 +1360,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 54.8
+   "size_kb": 56.1
   },
   {
    "file": "AICE_Associate_변주v6_05_분류_Delivery_Status.ipynb",
@@ -1373,7 +1373,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 57.1
+   "size_kb": 58.3
   },
   {
    "file": "AICE_Associate_변주v6_06_회귀_Predicted_Yield.ipynb",
@@ -1386,7 +1386,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 52.8
+   "size_kb": 54.0
   },
   {
    "file": "AICE_Associate_변주v6_07_분류_Sale_Grade.ipynb",
@@ -1399,7 +1399,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 55.3
+   "size_kb": 56.6
   },
   {
    "file": "AICE_Associate_변주v6_08_회귀_payment_failure_amount.ipynb",
@@ -1412,7 +1412,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 53.4
+   "size_kb": 54.6
   },
   {
    "file": "AICE_Associate_변주v6_09_분류_Damage_Risk.ipynb",
@@ -1425,7 +1425,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 57.6
+   "size_kb": 58.9
   },
   {
    "file": "AICE_Associate_변주v6_10_회귀_NoShowRate.ipynb",
@@ -1438,7 +1438,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 52.5
+   "size_kb": 53.7
   },
   {
    "file": "AICE_Associate_변주v6_11_분류다중_ChurnStatus.ipynb",
@@ -1451,7 +1451,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 57.4
+   "size_kb": 58.7
   },
   {
    "file": "AICE_Associate_변주v6_12_회귀_expected_no_show_rate.ipynb",
@@ -1464,7 +1464,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 54.7
+   "size_kb": 56.0
   },
   {
    "file": "AICE_Associate_변주v6_13_분류다중_Loan_Status.ipynb",
@@ -1477,7 +1477,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 58.1
+   "size_kb": 59.3
   },
   {
    "file": "AICE_Associate_변주v6_14_회귀_predicted_defect_rate.ipynb",
@@ -1490,7 +1490,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 55.3
+   "size_kb": 56.6
   },
   {
    "file": "AICE_Associate_변주v6_15_분류_is_fraud.ipynb",
@@ -1503,7 +1503,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 56.8
+   "size_kb": 58.1
   },
   {
    "file": "AICE_Associate_변주v6_16_회귀_target.ipynb",
@@ -1516,7 +1516,7 @@
    "has_stopwatch": true,
    "has_grading": true,
    "has_mermaid": true,
-   "size_kb": 52.6
+   "size_kb": 53.9
   }
  ]
 }
